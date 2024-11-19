@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./myVenv/vehicle-tracking-app/app",
+        "./myVenv/vehicle-tracking-app"
+    ]
+}
